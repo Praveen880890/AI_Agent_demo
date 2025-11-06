@@ -1,0 +1,16 @@
+# Internal Project Knowledge Base
+
+[Project Phoenix]
+Description: Next-generation financial analytics platform.
+Status: In development (Phase 2).
+Contact: maria@your-company.com
+Scheduled Launch: Q1 2026
+
+[GAIA Platform]
+Description: The internal Generative AI platform.
+Internal Codename: Griffin
+Support Email: support@gaia-internal.com
+
+[Company Policies]
+Company-wide Holiday: December 20th.
+Work From Home: Tuesdays and Thursdays are optional WFH days.
