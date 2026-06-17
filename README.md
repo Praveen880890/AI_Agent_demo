@@ -1,3 +1,5 @@
+*Note : Strictly for education purpose
+
 # AI_Agent_demo: From Zero to Agent Building
 
 This project is a demonstration of how to build a functional AI agent, or "Company Brain," using the `strands-agents` SDK.
